@@ -14,7 +14,7 @@ sections:
     title: Pick your plan
     background_image: images/john-paul-henry-ZW81LEJWVBk-unsplash.jpg
     background_color: none
-    background_image_opacity: 40
+    background_image_opacity: 45
     has_border: false
   - type: grid_section
     grid_items:
