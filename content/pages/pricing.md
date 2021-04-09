@@ -40,7 +40,7 @@ sections:
         content: |
           ### £29.99
 
-          *   Print + eBook editions
+          *   6 months
           *   Advanced tutorials
           *   Monthly webinars
           *   1hr consultation
