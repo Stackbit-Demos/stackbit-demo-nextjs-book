@@ -33,13 +33,12 @@ sections:
         subtitle: 'You have started a year before, and have a long journey to experience.'
       - title: At the halfway mark
         title_align: left
-        content: >+
+        content: |
           ### £29.99
 
-
-          *   *   6 months*   Personalised plan*   I will think of something to
-          write here later
-
+          *   6 months   
+          *   Personalised plan   
+          *   I will think of something to write here later
         content_align: left
         actions:
           - label: lorem-ipsum
