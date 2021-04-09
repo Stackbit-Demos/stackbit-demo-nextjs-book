@@ -11,7 +11,7 @@ sections:
     media_position: top
     background_image: images/amy-hirschi-szrJ3wjzOMg-unsplash.jpg
     background_image_size: contain
-    background_image_position: left center
+    background_image_position: center center
   - type: grid_section
     grid_items:
       - title: Student
