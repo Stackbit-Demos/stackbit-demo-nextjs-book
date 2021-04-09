@@ -71,7 +71,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        subtitle: 'You only have three months '
+        subtitle: 'You only have three months, but we '
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
