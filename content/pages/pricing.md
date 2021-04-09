@@ -77,7 +77,7 @@ sections:
         subtitle: >-
           You have only three months, but we can still help you reach your final
           goal.
-      - title: Near the finish line
+      - title: Near the finish lin
         title_align: left
         content: |
           ### £19.99
