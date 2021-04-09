@@ -19,9 +19,11 @@ sections:
         content: |
           ***
 
-          ### £49.99
+          ### £49.99 
 
-          *   Digital edition
+          #### 1 year
+
+          *
           *   Basic tutorials and worksheets
           *   Access to community group
         content_align: left
