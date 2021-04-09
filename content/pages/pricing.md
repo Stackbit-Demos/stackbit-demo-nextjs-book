@@ -32,7 +32,6 @@ sections:
         title: At the starting line.
         subtitle: 'You have started a year before, and have a long journey to experience.'
       - title: At the halfway mark
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
