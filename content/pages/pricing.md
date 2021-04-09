@@ -20,6 +20,7 @@ sections:
           ### £49.99
 
           *   1 year
+          *
           *   You have a higher chance of finishing all the papers
         content_align: left
         actions:
