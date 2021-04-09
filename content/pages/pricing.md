@@ -38,7 +38,7 @@ sections:
 
           *   6 months
           *   Personalised plan
-          *
+          *   I will think of something to write here later
         content_align: left
         actions:
           - label: Start with Professional
