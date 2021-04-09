@@ -15,7 +15,7 @@ sections:
     title: Pick your plan
   - type: grid_section
     grid_items:
-      - subtitle: For children who have just begun this endeavour.
+      - subtitle: If you have just begun this endeavour
         title_align: left
         content: |-
           ---
