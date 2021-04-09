@@ -15,8 +15,7 @@ sections:
     title: Pick your plan
   - type: grid_section
     grid_items:
-      - title: Student
-        subtitle: For college students and educators
+      - subtitle: For college students and educators
         title_align: left
         content: |-
           ---
