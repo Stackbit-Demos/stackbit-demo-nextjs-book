@@ -16,13 +16,19 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: |
+        content: >
           ***
 
-          ### £49.99                                            1 year
+
+          ###
+          £49.99                                                                                                                                      
+          1 year
+
 
           *
+
           *   Basic tutorials and worksheets
+
           *   Access to community group
         content_align: left
         actions:
