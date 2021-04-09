@@ -9,7 +9,7 @@ sections:
     subtitle: Determine the best way for you to learn
     actions: []
     media_position: top
-    background_image: images/beige-pineapple.jpg
+    background_image: images/amy-hirschi-szrJ3wjzOMg-unsplash.jpg
     background_image_size: contain
   - type: grid_section
     grid_items:
