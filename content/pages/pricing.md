@@ -35,7 +35,7 @@ sections:
         actions_width: full-width
         title: 'At the starting line, ready to take off.'
       - title: At the halfway mark
-        subtitle: For marketers at companies
+        subtitle: 'For children who have done a bit of work, but want to practic'
         title_align: left
         content: |-
           ---
