@@ -44,8 +44,7 @@ sections:
           *   I will think of something to write here later
         content_align: left
         actions:
-          - url: '#'
-            style: primary
+          - style: primary
             has_icon: true
             icon: arrow-left
             icon_position: right
