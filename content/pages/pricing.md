@@ -44,8 +44,7 @@ sections:
           *   I will think of something to write here later
         content_align: left
         actions:
-          - label: Start with Business
-            url: '#'
+          - url: '#'
             style: primary
             has_icon: true
             icon: arrow-left
