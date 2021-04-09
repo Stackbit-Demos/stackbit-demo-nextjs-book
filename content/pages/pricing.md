@@ -30,7 +30,7 @@ sections:
           - label: Start with Personal
             url: /thank-you
             style: primary
-            has_icon: true
+            has_icon: false
         actions_align: left
         actions_width: full-width
         title: At the starting line.
