@@ -33,17 +33,14 @@ sections:
         subtitle: 'You have started a year before, and have a long journey to experience.'
       - title: At the halfway mark
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ### £29.99
 
+          *   6 months
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Personalised plan
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   I TSdfjkajdsflakw3jlkajl;kdjfklajs;lkdjfa ausydfoyiusda
         content_align: left
         actions: []
         actions_align: left
