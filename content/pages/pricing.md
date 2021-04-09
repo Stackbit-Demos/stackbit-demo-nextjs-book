@@ -52,6 +52,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Start with business
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
