@@ -8,7 +8,7 @@ sections:
     subtitle: Determine the best way for you to learn
     actions: []
     media_position: left
-    background_image: images/georgie-cobbs-aeC221DL8Ew-unsplash.jpg
+    background_image: images/pink-owl.jpg
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: repeat
