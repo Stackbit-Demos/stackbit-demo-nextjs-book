@@ -13,7 +13,7 @@ sections:
     background_image_repeat: repeat
     title: Pick your plan
     background_image: images/interesting-petunia.jpg
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     grid_items:
       - title_align: left
