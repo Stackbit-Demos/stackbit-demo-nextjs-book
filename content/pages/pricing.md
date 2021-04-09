@@ -14,7 +14,7 @@ sections:
     title: Pick your plan
     background_image: images/computer-416569_1920.jpg
     background_color: none
-    background_image_opacity: 30
+    background_image_opacity: 50
     has_border: false
   - type: grid_section
     grid_items:
