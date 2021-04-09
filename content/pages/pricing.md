@@ -54,7 +54,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        subtitle: You have six months to prepare a
+        subtitle: You have six months to prepare until your first exam.
       - title: Near the finish line
         title_align: left
         content: >-
