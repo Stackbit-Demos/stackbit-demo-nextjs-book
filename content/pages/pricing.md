@@ -33,7 +33,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        title: Near the finish line
+        title: 'At the starting line, ready to take off.'
       - title: At the halfway mark
         subtitle: For marketers at companies
         title_align: left
