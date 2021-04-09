@@ -14,7 +14,7 @@ sections:
     title: Pick your plan
     background_image: images/pencils-762555_1920.jpg
     background_color: none
-    background_image_opacity: 35
+    background_image_opacity: 100
     has_border: false
   - type: grid_section
     grid_items:
