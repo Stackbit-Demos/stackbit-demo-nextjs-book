@@ -55,13 +55,12 @@ sections:
         subtitle: You have six months to prepare until your first exam.
       - title: Near the finish line
         title_align: left
-        content: >-
-          ---
+        content: >
+          ### £19.99
 
-          ### $49 eBook
 
-          * 3 eBooks * Monthly webinars * Bonus chapter per vertical * Live Q&A
-          session * Advanced worksheets
+          *   3 eBooks \* Monthly webinars \* Bonus chapter per vertical \* Live
+          Q\&A session \* Advanced worksheets
         content_align: left
         actions:
           - label: Start with Business
