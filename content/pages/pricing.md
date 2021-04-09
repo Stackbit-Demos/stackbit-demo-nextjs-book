@@ -21,7 +21,7 @@ sections:
 
           *   1 year
           *   Personalised plan
-          *   You have a higher chance of finishing all the papers
+          *   You have a higher chance of completing all the papers
         content_align: left
         actions:
           - label: Start with Personal
