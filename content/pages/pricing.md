@@ -12,7 +12,7 @@ sections:
     background_image_position: center center
     background_image_repeat: repeat
     title: Pick your plan
-    background_image: images/john-paul-henry-ZW81LEJWVBk-unsplash.jpg
+    background_image: images/pexels-cottonbro-4065905.jpg
     background_color: none
     background_image_opacity: 35
     has_border: false
