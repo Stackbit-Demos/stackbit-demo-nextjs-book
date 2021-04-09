@@ -9,6 +9,7 @@ sections:
     subtitle: Determine the best way for you to learn
     actions: []
     media_position: top
+    background_image: images/beige-pineapple.jpg
   - type: grid_section
     grid_items:
       - title: Student
