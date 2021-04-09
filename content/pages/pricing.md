@@ -41,7 +41,7 @@ sections:
           *   I will think of something to write here later
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Start with Business
             url: '#'
             style: primary
             has_icon: false
