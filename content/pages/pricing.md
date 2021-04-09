@@ -43,15 +43,7 @@ sections:
           *   Personalised plan   
           *   I will think of something to write here later
         content_align: left
-        actions:
-          - style: primary
-            has_icon: true
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            label: Start with business
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
