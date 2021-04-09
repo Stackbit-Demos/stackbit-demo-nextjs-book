@@ -15,7 +15,7 @@ sections:
     background_image: images/interesting-petunia.jpg
     background_color: none
     background_image_opacity: 100
-    has_border: true
+    has_border: false
   - type: grid_section
     grid_items:
       - title_align: left
