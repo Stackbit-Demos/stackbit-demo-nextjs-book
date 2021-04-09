@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    align: right
+    align: center
     padding_top: large
     padding_bottom: small
     subtitle: Determine the best way for you to learn
