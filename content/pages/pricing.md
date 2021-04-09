@@ -16,15 +16,14 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
+          ### £49.99
 
-          ### $9 eBook
-
-          * Digital edition
-          * Basic tutorials and worksheets
-          * Access to community group
+          *   Digital edition
+          *   Basic tutorials and worksheets
+          *   Access to community group
         content_align: left
         actions:
           - label: Start with Personal
