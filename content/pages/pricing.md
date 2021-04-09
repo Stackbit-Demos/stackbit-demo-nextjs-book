@@ -33,7 +33,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        title: 'At the starting line, ready to take off.'
+        title: At the starting line.
         subtitle: 'You have started a year before, and have a long journey to experience.'
       - title: At the halfway mark
         title_align: left
