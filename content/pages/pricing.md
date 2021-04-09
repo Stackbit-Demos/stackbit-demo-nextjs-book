@@ -71,7 +71,9 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        subtitle: 'You only have three months, but we can still help you reach your '
+        subtitle: >-
+          You only have three months, but we can still help you reach your final
+          goal
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
