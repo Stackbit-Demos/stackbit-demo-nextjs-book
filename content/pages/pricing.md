@@ -77,23 +77,6 @@ sections:
         subtitle: >-
           You have only three months, but we can still help you reach your final
           goal.
-      - title: Near the finish lin
-        title_align: left
-        content: |
-          ### £19.99
-
-
-
-          *    3 months
-          *    Personalised plan   
-          *    I will think of something to write here later
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: full-width
-        subtitle: >-
-          You only have three months, but we can still help you reach your final
-          goal.
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
