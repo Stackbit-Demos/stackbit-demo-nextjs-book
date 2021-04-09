@@ -49,13 +49,14 @@ sections:
         subtitle: You have six months to prepare until your first exam.
       - title: Near the finish line
         title_align: left
-        content: >+
+        content: |
           ### £19.99
 
 
-          *   *   3 months*   Personalised plan*   I will think of something to
-          write here later
 
+          *    3 months
+          *    Personalised plan   
+          *    I will think of something to write here later
         content_align: left
         actions:
           - label: Start with Business
