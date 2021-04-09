@@ -37,16 +37,14 @@ sections:
         subtitle: 'You have started a year before, and have a long journey to experience.'
       - title: At the halfway mark
         title_align: left
-        content: |-
-          ---
+        content: |
+          ### £29.99
 
-          ### $19 Print + eBook
-
-          * Print + eBook editions
-          * Advanced tutorials
-          * Monthly webinars
-          * 1hr consultation
-          * eMail feedback session
+          *   Print + eBook editions
+          *   Advanced tutorials
+          *   Monthly webinars
+          *   1hr consultation
+          *   eMail feedback session
         content_align: left
         actions:
           - label: Start with Professional
