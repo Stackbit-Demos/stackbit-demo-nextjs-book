@@ -53,6 +53,7 @@ sections:
           ### £19.99
 
           *   3 months
+          *   Personalised plan
         content_align: left
         actions:
           - label: Start with Business
