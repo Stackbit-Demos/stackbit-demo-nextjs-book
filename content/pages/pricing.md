@@ -62,9 +62,9 @@ sections:
       - title: Near the finish line
         title_align: left
         content: |
-          ### £29.99
+          ### £19.99
 
-          *   6 months
+          *   3 months
           *   Personalised plan
           *   I will think of something to write here later
         content_align: left
