@@ -12,6 +12,7 @@ sections:
     background_image_position: center center
     background_image_repeat: repeat
     title: Pick your plan
+    background_image: images/jess-bailey-q10VITrVYUM-unsplash.jpg
   - type: grid_section
     grid_items:
       - title_align: left
