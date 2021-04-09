@@ -17,15 +17,11 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ***
-
-
           ###
-          £49.99                                                                                                                                      
-          1 year
+          £49.99                                                                                                             
 
 
-          *
+          *   1 year
 
           *   Basic tutorials and worksheets
 
