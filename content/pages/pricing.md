@@ -54,6 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        subtitle: You have six months to prepare until your first exam.
       - title: Near the finish line
         title_align: left
         content: |
