@@ -88,10 +88,7 @@ sections:
           *    Personalised plan   
           *    I will think of something to write here later
         content_align: left
-        actions:
-          - label: Start with Business
-            url: /thank-you
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
         subtitle: >-
