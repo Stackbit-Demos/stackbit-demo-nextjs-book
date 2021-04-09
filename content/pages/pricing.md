@@ -55,7 +55,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: At the halfway mark
+      - title: Near the finish line
         title_align: left
         content: |
           ### £29.99
