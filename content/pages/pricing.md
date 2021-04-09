@@ -78,7 +78,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: Student
 seo:
   title: Pricing
   description: This is the pricing page
