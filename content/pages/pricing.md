@@ -56,7 +56,7 @@ sections:
 
           *   Personalised plan
 
-          *   I will write this later so hooray
+          *   I will write this later so hooray for me
         content_align: left
         actions:
           - label: Start with Business
