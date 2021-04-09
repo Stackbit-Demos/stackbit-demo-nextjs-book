@@ -8,7 +8,7 @@ sections:
     padding_bottom: small
     subtitle: Determine the best way for you to learn
     actions: []
-    media_position: bottom
+    media_position: top
     background_image: images/georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg
     background_image_size: cover
     background_image_position: center center
