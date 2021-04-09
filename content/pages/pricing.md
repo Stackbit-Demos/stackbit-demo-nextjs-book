@@ -14,7 +14,7 @@ sections:
     title: Pick your plan
     background_image: images/iphone-1852901_1920.jpg
     background_color: none
-    background_image_opacity: 0
+    background_image_opacity: 30
     has_border: false
   - type: grid_section
     grid_items:
