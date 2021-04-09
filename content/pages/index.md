@@ -92,7 +92,7 @@ sections:
     background_image: images/background-2.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 10
+    background_image_opacity: 100
   - type: grid_section
     title: Full Chapter  Overview
     grid_items:
