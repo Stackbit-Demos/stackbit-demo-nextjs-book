@@ -12,7 +12,7 @@ sections:
     background_image_position: center center
     background_image_repeat: repeat
     title: Pick your plan
-    background_image: images/computer-416569_1920.jpg
+    background_image: images/iphone-1852901_1920.jpg
     background_color: none
     background_image_opacity: 0
     has_border: false
