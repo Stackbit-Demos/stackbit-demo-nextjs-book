@@ -10,7 +10,7 @@ sections:
     actions: []
     media_position: top
     background_image: images/wonderful-yam.jpg
-    background_image_size: contain
+    background_image_size: auto
     background_image_position: center center
   - type: grid_section
     grid_items:
