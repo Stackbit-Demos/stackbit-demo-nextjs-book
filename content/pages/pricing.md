@@ -19,9 +19,7 @@ sections:
         content: |
           ***
 
-          ### £49.99 
-
-          #### 1 year
+          ### £49.99 1 year
 
           *
           *   Basic tutorials and worksheets
