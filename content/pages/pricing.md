@@ -54,7 +54,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Near the finish line
         subtitle: For teams and companies
         title_align: left
         content: >-
