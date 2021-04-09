@@ -48,7 +48,7 @@ sections:
             has_icon: true
             icon: arrow-left
             icon_position: right
-            new_window: true
+            new_window: false
             no_follow: false
             type: action
             label: Start with business
