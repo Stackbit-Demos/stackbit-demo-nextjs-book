@@ -54,6 +54,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        subtitle: You have six months to prepare
       - title: Near the finish line
         title_align: left
         content: >-
