@@ -12,6 +12,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: repeat
+    title: Pick your plan
   - type: grid_section
     grid_items:
       - title: Student
