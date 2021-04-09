@@ -12,7 +12,7 @@ sections:
     background_image_position: center center
     background_image_repeat: repeat
     title: Pick your plan
-    background_image: images/amazing-tiger.jpg
+    background_image: images/oli-dale-xjSkI_seiZY-unsplash (1).jpg
   - type: grid_section
     grid_items:
       - title_align: left
