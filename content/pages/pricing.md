@@ -34,7 +34,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: Near the finish line
-      - title: Professional
+      - title: At the halfway mark
         subtitle: For marketers at companies
         title_align: left
         content: |-
