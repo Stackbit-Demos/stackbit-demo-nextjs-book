@@ -7,6 +7,16 @@ sections:
     padding_top: large
     padding_bottom: small
     subtitle: Determine the best way for you to learn
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: grid_section
     grid_items:
       - title: Student
