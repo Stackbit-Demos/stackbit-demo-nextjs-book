@@ -8,7 +8,7 @@ sections:
     subtitle: Determine the best way for you to learn
     actions: []
     media_position: left
-    background_image: images/sabri-tuzcu-wunVFNvqhfE-unsplash.jpg
+    background_image: images/christine-donaldson-3h8hMYQrdLc-unsplash.jpg
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: repeat
