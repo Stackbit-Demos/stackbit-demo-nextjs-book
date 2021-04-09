@@ -61,7 +61,7 @@ sections:
         actions:
           - label: Start with Business
             url: /thank-you
-            style: link
+            style: secondary
         actions_align: left
         actions_width: full-width
         subtitle: >-
