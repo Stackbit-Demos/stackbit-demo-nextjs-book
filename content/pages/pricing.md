@@ -10,7 +10,7 @@ sections:
     actions: []
     media_position: top
     background_image: images/beige-pineapple.jpg
-    background_image_size: cover
+    background_image_size: auto
   - type: grid_section
     grid_items:
       - title: Student
