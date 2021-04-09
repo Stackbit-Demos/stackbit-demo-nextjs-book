@@ -31,7 +31,7 @@ sections:
         actions_width: full-width
         title: At the starting line.
         subtitle: 'You have started a year before, and have a long journey to experience.'
-      - title: lorem-ipsum
+      - title: At the halfway mark
         subtitle: lorem-ipsum
         title_align: left
         content: >-
