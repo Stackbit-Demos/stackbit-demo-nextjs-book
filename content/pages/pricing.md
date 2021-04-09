@@ -8,6 +8,7 @@ sections:
     padding_bottom: small
     subtitle: Determine the best way for you to learn
     actions: []
+    image: images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg
   - type: grid_section
     grid_items:
       - title: Student
